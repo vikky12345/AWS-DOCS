@@ -1,0 +1,26 @@
+<div class="fin-home">
+    <h2>Finance</h2>
+    <p> The Finance Department maintains records of all financial transactions and is responsible for the Town's
+        revenues and disbursements. </p>
+
+    <p>The CFO oversees the various finance functions and is responsible for correct financial reporting,
+        purchasing/accounts payable, debt service, grant activity, payroll and benefits, fixed assets etc. </p>
+
+    <p>The Town's budget, accounting records and fiscal operations are examined each year by independent auditors.</p>
+
+    <p>John O. Gross, CFO/ Municipal Treasurer <br>
+
+        973-366-2200 x 1135 <br>
+
+        jgross@dover.nj.us 
+    </p>
+
+
+
+    <p>James Roddy Tricarico, Deputy CFO <br>
+
+        973-366-2200 x 1149 <br>
+
+        jtricarico@dover.nj.us
+    <p>
+</div>

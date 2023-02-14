@@ -1,0 +1,35 @@
+<div class="enmicDev">
+<h1>Economic Development & Community Affairs</h1>
+    <span>Page Navigation</span>
+    <strong>What is Economic Development?</strong>
+
+    <p>Economic development is a policy intervention endeavor with aims of improving the economic and social well-being
+        of people and supporting sustained economic growth. <br>
+
+        Amartya Kumar Sen, an economist and philosopher, who received the Nobel Memorial Prize in Economic Sciences, once said: <br>
+
+        <span class="ecnm-dest">“Economic development is about creating freedom for people and removing obstacles to
+            greater freedom. Greater freedom enables people to choose their own destiny.”
+        </span>
+
+        The Department of Economic Development is organized to retain, attract and grow businesses, enhance small and
+        minority business capacity, and spur real estate development throughout the Town of Dover. We execute economic
+        development activities to produce and sustain economic growth, generate jobs and create well-being for the
+        residents of Dover. <br>
+
+        We promote and facilitate economic development throughout Dover. Working in conjunction with elected officials,
+        and non-profit organizations our Department serves the people and business community of Dover by:
+
+    <ul>
+        <li> Assisting businesses, especially small businesses;</li>
+        <li>Administering programs that stimulate neighborhood economic development and contribute to the overall economic wellbeing of Dover;</li>
+        <li>Facilitating the dissemination of economic development information; and</li>
+        <li> with government to coordinate existing economic development efforts and focus resources for maximum impact.</li>
+        <li>Marketing Dover as a premier destination to visitors and families looking to call Dover home.</li>
+        <li>We promote and develop the planning and growth of the Town of Dover, through the implementation and coordination of all economic development plans and programs including matters affecting community & business development, downtown business district growth, and quality of life issues.</li>
+    </ul>
+
+    <strong class="com-aff">Community Affairs</strong>
+
+    Implementing community outreach programs, organizing events, coordinating volunteers, writing and releasing publicity material and developing public relations strategies that will promote unity within all the communities that make up the Town of Dover.</p>
+</div>

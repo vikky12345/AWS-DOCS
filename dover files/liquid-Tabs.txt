@@ -1,0 +1,54 @@
+<div class="cgt-desc">
+
+    <ul class="tabs clearfix">
+
+        <li><a href="#tab-1" class="active">About Us</a></li>
+
+        <li><a href="#tab-2">Announcements</a></li>
+
+        <li><a href="#tab-3">News</a></li>
+
+        <li><a href="#tab-4">Town Calendar</a></li>
+
+        <li><a href="#tab-4">Rec. Calendar</a></li>
+
+    </ul>
+
+    <div class="cgt-content">
+
+        <div id="tab-1" class="tab active">
+            <div class="colTab">
+                <h2>{{ secction.settings.heading-tab }}</h2>
+                <div class="hmpg-tbs">
+                    {% for block in section.blocks %}
+                    <div class="imageText">
+                        <img src="{{ block.settings.tab-img | image_url:master }}" alt="" class="icon-home">
+                        <a href="{{ block.settings.link }}">{{ block.settings.image-text }}</a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+        </div>
+
+        <div id="tab-2" class="tab">
+
+            Enter Size Chart Over here table, images, etc.
+
+        </div>
+
+        <div id="tab-3" class="tab">
+
+            Enter Shipping & Returns details over here.
+
+        </div>
+
+        <div id="tab-4" class="tab">
+
+            Enter youtube video , vimeo ,etc embed code.
+
+        </div>
+
+    </div>
+
+</div>

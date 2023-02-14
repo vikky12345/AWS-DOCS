@@ -1,0 +1,91 @@
+<div class="dept-hmpg">
+    <header>
+        <h1>Departments</h1>
+
+        <div class="jump">
+            <span class="jumpselect" style="border-radius: 5px 5px 0px 0px;">
+                <span class="page-nav-label">Page Navigation</span>
+                <img src="./Departments - Town of Dover_files/dropdown.gif" alt="Show page menu">
+            </span>
+            <div class="jumplist" style="display: block;">
+                <a class="jumpclose">Close</a>
+
+                <ul class="childselect">
+
+                    <li class="childselect currentpage">Departments
+                        <ul class="childselect">
+
+                            <li class="childselect"><a href="#">Code Enforcement</a></li>
+
+                            <li class="childselect"><a href="#">Construction</a></li>
+
+                            <li class="childselect"><a href="#">Dover-Victory Gardens Shared Municipal Court</a></li>
+
+                            <li class="childselect"><a href="#">Economic Development Community Affairs</a></li>
+
+                            <li class="childselect"><a href="#">Emergency Management</a></li>
+
+                            <li class="childselect"><a href="#">Engineering</a></li>
+
+                            <li class="childselect"><a href="#">Finance</a></li>
+
+                            <li class="childselect"><a href="#">Fire Department</a></li>
+
+                            <li class="childselect"><a href="#">Health</a></li>
+
+                            <li class="childselect"><a href="#">Library</a></li>
+
+                            <li class="childselect"><a href="#">Office of the Municipal Clerk</a></li>
+
+                            <li class="childselect"><a href="#">Parking Utility</a></li>
+
+                            <li class="childselect"><a href="#">Planning &amp; Zoning</a></li>
+
+                            <li class="childselect"><a href="#">Police</a></li>
+
+                            <li class="childselect"><a href="#">Public Works</a></li>
+
+                            <li class="childselect"><a href="#">Recreation</a></li>
+
+                            <li class="childselect"><a href="#">Shade Tree Commission</a></li>
+
+                            <li class="childselect"><a href="#">Tax Assessor</a></li>
+
+                            <li class="childselect"><a href="#">Tax Collection</a></li>
+
+                            <li class="childselect"><a href="#">Water Commission</a></li>
+
+                        </ul>
+
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+        <div class="defaultContentEditor pageContentEditor"></div>
+    </header>
+    <div class="dpt-hmpg-main">
+        <ul>
+            <li><a href="#">Code Enforcement</a></li>
+            <li><a href="#">Construction</a></li>
+            <li><a href="#">Dover-Victory Gardens Shared Municipal Court</a></li>
+            <li><a href="#">Economic Development & Community Affairs</a></li>
+            <li><a href="#">Emergency Management</a></li>
+            <li><a href="#">Engineering</a></li>
+            <li><a href="#">Fire Department</a></li>
+            <li><a href="#">Health</a></li>
+            <li><a href="#">Library</a></li>
+            <li><a href="#">Office of the Municipal Clerk</a></li>
+            <li><a href="#">Parking Utility</a></li>
+            <li><a href="#">Planning & Zoning</a></li>
+            <li><a href="#">Police</a></li>
+            <li><a href="#">Public Works</a></li>
+            <li><a href="#">Shade Tree Commission</a></li>
+            <li><a href="#">Tax Assessor</a></li>
+            <li><a href="#">Tax Collection</a></li>
+            <li><a href="#">Water Commission</a></li>
+            <li><a href="#">Recreation</a></li>
+        </ul>
+    </div>
+</div>

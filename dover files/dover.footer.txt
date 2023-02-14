@@ -1,0 +1,35 @@
+<div class="footer">
+    <div class="details">
+        <div class="contentBox " id="footerContact">
+            <p>Monday - Friday<br>
+                8:30 AM - 4:30 PM<br>
+                <br>
+                37 North Sussex Street<br>
+                Dover, NJ&nbsp; 07801<br>
+                Phone: 973-366-2200<br>
+                <br>
+                Police/Fire/EMS<br>
+                24/7/365<br>
+                Dial 911 for Emergencies
+            </p>
+        </div>
+    </div>
+    <div class="relatedLinks">
+        <div class="contentBox " id="">
+            <a href="#">Mayor's Page</a><br>
+            <a href="#">Board of Aldermen</a><br>
+            <a href="#">Emergency Management</a><br>
+            <a href="#" target="_blank">Map of Dover</a><br>
+            <a href="#" target="_blank">Town of Dover Code</a>
+        </div>
+    </div>
+    <div class="links">
+        <div class="contentBox " id="">
+            <a href="#">Land Use</a><br>
+            <a href="#">Frequently Asked Questions</a><br>
+            <a href="#" target="_blank">Free Public Library</a><br>
+            <a href="#" target="_blank">Dover Public Schools</a><br>
+            <a href="#">Community Organizations</a>
+        </div>
+    </div>
+</div>
